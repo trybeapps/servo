@@ -490,6 +490,7 @@ dependencies = [
  "devtools_traits 0.0.1",
  "euclid 0.15.5 (registry+https://github.com/rust-lang/crates.io-index)",
  "gaol 0.0.1 (git+https://github.com/servo/gaol)",
+ "gecko-media 0.1.0 (git+https://github.com/servo/gecko-media.git)",
  "gfx 0.0.1",
  "gfx_traits 0.0.1",
  "hyper 0.10.13 (registry+https://github.com/rust-lang/crates.io-index)",
